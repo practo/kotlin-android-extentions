@@ -1,3 +1,3 @@
 # kotlin-android-extentions
 
-A collection Kotlin extension functions for Android
+A collection of Kotlin extension functions for Android
